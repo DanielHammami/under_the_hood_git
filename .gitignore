@@ -1,0 +1,14 @@
+# Ignorer les répertoires et fichiers générés par TypeScript
+/dist/
+/node_modules/
+
+# Ignorer les fichiers de système d'exploitation
+.DS_Store
+Thumbs.db
+
+# Ignorer les fichiers de configuration temporaires
+*.log
+*.tsbuildinfo
+
+# Ignorer le fichier de configuration npm
+package-lock.json
